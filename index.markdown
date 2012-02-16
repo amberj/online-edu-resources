@@ -40,5 +40,5 @@ Click for respective courses: [Coursera](#coursera_courses) | [MIT RELATE](#mit_
 ## [MITx](http://mitx.mit.edu/ "MITx") course(s)
 
 
-## [Udacity[(http://www.udacity.com/ "Udacity") course(s)
+## [Udacity](http://www.udacity.com/ "Udacity") course(s)
 
