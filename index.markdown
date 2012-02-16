@@ -4,7 +4,8 @@ title: Online Education Resources
 
 # Online Education resources
 Click for respective courses: [Coursera](#coursera_courses) | [MIT RELATE](#mit_relate_courses) | [MITx](#mitx_courses) | [Udacity](#udacity_courses)
-******
+
+<hr />
 
 ## Coursera course(s)
 ### Current/Soon:
@@ -25,9 +26,11 @@ Click for respective courses: [Coursera](#coursera_courses) | [MIT RELATE](#mit_
 * Making Green Buildings
 * Anatomy
 * The Lean Launchpad
+
 ### Past:
 * Machine Learning
 * Introduction to Databases
+
 ### Discontinued:
 * Technology Entrepreneurship
 
