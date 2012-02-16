@@ -4,7 +4,8 @@ title: Online Education Resources
 
 # Online Education resources
 Click for respective courses: [Coursera](#coursera_courses) | [MIT RELATE](#mit_relate_courses) | [MITx](#mitx_courses) | [Udacity](#udacity_courses)
----
+******
+
 ## Coursera course(s)
 ### Current/Soon:
 * Model Thinking
