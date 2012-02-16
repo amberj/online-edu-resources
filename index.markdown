@@ -11,6 +11,7 @@ Click for respective courses: [Coursera](#coursera_courses) | [MIT RELATE](#mit_
 * Model Thinking
 * Software as a Service
 * Probabilistic Graphical Models
+
 ### Future:
 * CS101
 * Machine Learning
