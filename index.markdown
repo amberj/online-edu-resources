@@ -7,7 +7,7 @@ Click for respective courses: [Coursera](#coursera_courses) | [MIT RELATE](#mit_
 
 <hr />
 
-## Coursera course(s)
+## [Coursera](http://www.coursera.org/ "Coursera") course(s)
 ### Current/Soon:
 * Model Thinking
 * Software as a Service
@@ -34,11 +34,11 @@ Click for respective courses: [Coursera](#coursera_courses) | [MIT RELATE](#mit_
 ### Discontinued:
 * Technology Entrepreneurship
 
-## MIT RELATE course(s)
+## [MIT RELATE](http://relate.mit.edu/ "MIT RELATE") course(s)
 
 
-## MITx course(s)
+## [MITx](http://mitx.mit.edu/ "MITx") course(s)
 
 
-## Udacity course(s)
+## [Udacity[(http://www.udacity.com/ "Udacity") course(s)
 
