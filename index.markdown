@@ -3,8 +3,8 @@ title: Online Education Resources
 ---
 
 # Online Education resources
-Home | FAQ | Contribute | Contact<br />
-[Coursera](#coursera_courses) | [MIT RELATE](#mit_relate_courses) | [MITx](#mitx_courses) | [Udacity](#udacity_courses)
+Home | FAQ | Contribute | Contact
+Click to see respective courses: [Coursera](#coursera_courses) | [MIT RELATE](#mit_relate_courses) | [MITx](#mitx_courses) | [Udacity](#udacity_courses)
 
 <hr />
 
@@ -35,6 +35,8 @@ Home | FAQ | Contribute | Contact<br />
 ### Discontinued:
 * Technology Entrepreneurship
 
+<hr />
+
 ## [MIT RELATE](http://relate.mit.edu/ "MIT RELATE") course(s)
 ### Current/Soon:
 * Mechanics Online
@@ -48,6 +50,8 @@ None.
 ### Discontinued:
 None.
 
+<hr />
+
 ## [MITx](http://mitx.mit.edu/ "MITx") course(s)
 ### Current/Soon:
 * 6.002x Circuits and Electronics
@@ -60,6 +64,8 @@ None.
 
 ### Discontinued:
 None.
+
+<hr />
 
 ## [Udacity](http://www.udacity.com/ "Udacity") course(s)
 ### Current/Soon:
