@@ -10,26 +10,26 @@ Click for respective courses: [Coursera](#coursera_courses) | [MIT RELATE](#mit_
 ## [Coursera](http://www.coursera.org/ "Coursera") course(s)
 ### Current/Soon:
 * Model Thinking
-* Software as a Service
 * Probabilistic Graphical Models
+* Software as a Service
 
 ### Future:
-* CS101
-* Machine Learning
-* Human-Computer Interaction
-* Natural Language Processing
-* Game Theory
-* Cryptography
-* Design and Analysis of Algorithms I
-* Computer Security
-* Information Theory
-* Making Green Buildings
 * Anatomy
+* Computer Security
+* Cryptography
+* CS101
+* Design and Analysis of Algorithms I
+* Game Theory
+* Human-Computer Interaction
+* Information Theory
+* Machine Learning
+* Making Green Buildings
+* Natural Language Processing
 * The Lean Launchpad
 
 ### Past:
-* Machine Learning
 * Introduction to Databases
+* Machine Learning
 
 ### Discontinued:
 * Technology Entrepreneurship
