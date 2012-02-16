@@ -2,6 +2,7 @@
 title: Online Education Resources
 ---
 
-## Online Education (Udacity/Coursera/MITx/etc) resources
+## Online Education resources
+Click for respective courses: [Coursera](#coursera) | MIT RELATE | MITx | Udacity
 
-### [Coursera](http://www.coursera.org/ "Coursera") courses
+### <a id="coursera"/>[Coursera](http://www.coursera.org/ "Coursera") courses
