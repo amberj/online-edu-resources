@@ -9,6 +9,7 @@ title: Online Education Resources
 
 ## Course Providers:
 Click on links below to see courses from each course provider:
+
 * Coursera
 
 * MIT RELATE
@@ -21,6 +22,6 @@ Click on links below to see courses from each course provider:
 [Click here](http://amberj.github.com/online-edu-resources/subscribe.html "Online Educational Resources: Subscribe to site updates") to subscribe to site updates (Email/RSS/Twitter/Twitter RSS/Facebook).
 
 <hr />
-<center>
+<br />
 [Hosted on GitHub](https://github.com/amberj/online-edu-resources "online-edu-resources on GitHub")
-</center>
+
