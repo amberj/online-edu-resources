@@ -22,13 +22,8 @@ Click on links below to see courses from each course provider:
 [Click here](http://amberj.github.com/online-edu-resources/subscribe.html "Online Educational Resources: Subscribe to site updates") to subscribe to site updates (Email/RSS/Twitter/Twitter RSS/Facebook).
 
 ## Miscellaneous Resources:
-1. To keep track of online classes use [Class Central](http://www.class-central.com/ "Class Central"). You can susbcribe to Class Central updates on:
-* [Google+](https://plus.google.com/107809899089663019971/ "Class Central on Google+")
-* [Twitter](https://twitter.com/#!/classcentral "Class Central on Twitter")
-* [Twitter RSS](https://api.twitter.com/1/statuses/user_timeline.rss?screen_name=classcentral "Class Central Twitter RSS feed")
-* [Facebook](https://www.facebook.com/classcentral "Class Central Facebook page")
-* [Facebook RSS](https://www.facebook.com/feeds/page.php?id=305891199451158&format=rss20 "Class Central Facebook page RSS feed").
-2. You can use free service [Blogtrottr](http://blogtrottr.com/ "Blogtrottr") to receive email updates for any of RSS feeds linked above.
+1. To keep track of online classes use [Class Central](http://www.class-central.com/ "Class Central"). You can susbcribe to Class Central updates on: [Google+](https://plus.google.com/107809899089663019971/ "Class Central on Google+"), [Twitter](https://twitter.com/#!/classcentral "Class Central on Twitter"), [Twitter RSS](https://api.twitter.com/1/statuses/user_timeline.rss?screen_name=classcentral "Class Central Twitter RSS feed"), [Facebook](https://www.facebook.com/classcentral "Class Central Facebook page"), [Facebook RSS](https://www.facebook.com/feeds/page.php?id=305891199451158&format=rss20 "Class Central Facebook page RSS feed").
+Note: You can use free service [Blogtrottr](http://blogtrottr.com/ "Blogtrottr") to receive email updates for any of RSS feeds linked above.
 <br /><br />
 <hr />
 
