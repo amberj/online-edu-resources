@@ -2,10 +2,12 @@
 title: Online Education Resources: FAQ
 ---
 
-# Online Education Resources: FAQ <a href=""><img src="https://github.com/amberj/online-edu-resources/raw/gh-pages/feed-icon.png" alt="RSS Feed" /></a>
+# Online Education Resources: FAQ <a href="http://page2rss.com/rss/ec1509a056039fcf7fa3a3ff2aa8b22b"><img src="https://github.com/amberj/online-edu-resources/raw/gh-pages/feed-icon.png" alt="RSS Feed" /></a>
 [Home](http://amberj.github.com/online-edu-resources/ "Online Educational Resources: Home") &nbsp;|&nbsp; [Subscribe to site updates](http://amberj.github.com/online-edu-resources/subscribe.html "Online Educational Resources: Subscribe to site updates") &nbsp;|&nbsp; [FAQ](http://amberj.github.com/online-edu-resources/faq.html "Online Educational Resources: FAQ") &nbsp;|&nbsp; [Contribute](http://amberj.github.com/online-edu-resources/contribute.html "Online Educational Reqources: Contribute") &nbsp;|&nbsp; [Contact](http://amberj.github.com/online-edu-resources/contact.html "Online Educational Resources: Contact")<br />
 
 <hr />
+
+Note: This page is under heavy development. More FAQ will be added soon.
 
 ## General:
 Que: What is the purpose of this site?
