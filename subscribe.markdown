@@ -12,8 +12,8 @@ Note: Updates to all subscription channels linked below are __automated__. I hav
 You can subscribe __automated__ site updates on:
 * [Twitter](https://twitter.com/#!/ResourcesEdu "ResourcesEdu on Twitter") (automated)
 * [Twitter RSS](https://api.twitter.com/1/statuses/user_timeline.rss?screen_name=ResourcesEdu "RSS feed of ResourcesEdu's Twitter stream") (automated)
-* [Facebook Page](https://www.facebook.com/pages/Online-Edu-Resources/193711327397725 "Online Edu Resources Facebook Page")
-* [Facebook Page RSS](https://www.facebook.com/feeds/page.php?id=193711327397725&format=rss20 "RSS feed of Online Edu Resources Facebook Page")
+* [Facebook Page](https://www.facebook.com/pages/Online-Edu-Resources/193711327397725 "Online Edu Resources Facebook Page") (automated)
+* [Facebook Page RSS](https://www.facebook.com/feeds/page.php?id=193711327397725&format=rss20 "RSS feed of Online Edu Resources Facebook Page") (automated)
 
 ### Call for help:
 1. If anyone knows how to update a Google+ page __automatically__ from RSS/Facebook Page/Twitter, please [contact via email](http://amberj.github.com/online-edu-resources/contact.html "Contact") with detailed instructions.
