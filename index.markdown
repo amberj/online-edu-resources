@@ -29,16 +29,3 @@ Click on links below to see courses from each course provider:
 <hr />
 
 [Hosted on GitHub](https://github.com/amberj/online-edu-resources "online-edu-resources on GitHub")
-
-<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FOnline-Edu-Resources%2F193711327397725&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe>
-<!-- Place this tag where you want the +1 button to render -->
-<g:plusone size="small" href="http://amberj.github.com/online-edu-resources/"></g:plusone>
-
-<!-- Place this render call where appropriate -->
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
