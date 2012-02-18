@@ -17,7 +17,7 @@ You can subscribe __automated__ site updates on:
 
 ### Call for help:
 1. If anyone knows how to update a Google+ page __automatically__ from RSS/Facebook Page/Twitter, please [contact via email](http://amberj.github.com/online-edu-resources/contact.html "Contact") with detailed instructions.
-2. I'll like to concatenate RSS feeds for each page of this website into one RSS feed (maybe using Yahoo Pipes). If you can help, please [drop an email](http://amberj.github.com/online-edu-resources/contact.html "Contact").
+2. I'll like to combine multiple RSS feeds (for each page of this website) into another RSS feed (maybe using [Yahoo Pipes](http://pipes.yahoo.com/ "Yahoo Pipes")). If you can help, please [drop an email](http://amberj.github.com/online-edu-resources/contact.html "Contact").
 
 <br /><br />
 <hr />
