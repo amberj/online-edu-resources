@@ -3,8 +3,17 @@ title: Online Education Resources: Home
 ---
 
 # Online Education Resources: Home <a href="http://page2rss.com/rss/4882f2615e0b201c8d6d1eb55a4d7b75"><img src="https://github.com/amberj/online-edu-resources/raw/gh-pages/feed-icon.png" alt="RSS Feed" /></a>
-[Home](http://amberj.github.com/online-edu-resources/ "Online Educational Resources: Home") &nbsp;|&nbsp; [Subscribe to updates](http://amberj.github.com/online-edu-resources/subscribe.html "Online Educational Resources: Subscribe to site updates") &nbsp;|&nbsp; [FAQ](http://amberj.github.com/online-edu-resources/faq.html "Online Educational Resources: FAQ") &nbsp;|&nbsp; [Contribute](http://amberj.github.com/online-edu-resources/contribute.html "Online Educational Reqources: Contribute") &nbsp;|&nbsp; [Contact](http://amberj.github.com/online-edu-resources/contact.html "Online Educational Resources: Contact")<br />
-
+[Home](http://amberj.github.com/online-edu-resources/ "Online Educational Resources: Home") &nbsp;|&nbsp; [Subscribe to site updates](http://amberj.github.com/online-edu-resources/subscribe.html "Online Educational Resources: Subscribe to site updates") &nbsp;|&nbsp; [FAQ](http://amberj.github.com/online-edu-resources/faq.html "Online Educational Resources: FAQ") &nbsp;|&nbsp; [Contribute](http://amberj.github.com/online-edu-resources/contribute.html "Online Educational Reqources: Contribute") &nbsp;|&nbsp; [Contact](http://amberj.github.com/online-edu-resources/contact.html "Online Educational Resources: Contact")<br />
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+<a class="addthis_button_compact"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4d84b4e2377ec7d4"></script>
+<!-- AddThis Button END -->
 <hr />
 
 ## Course Providers:
@@ -29,4 +38,3 @@ Click on links below to see courses from each course provider:
 <hr />
 
 [Hosted on GitHub](https://github.com/amberj/online-edu-resources "online-edu-resources on GitHub")
-
