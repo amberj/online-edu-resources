@@ -10,11 +10,10 @@ title: Online Education Resources: FAQ
 ## General:
 __Que: What is the purpose of this site?__
 
-Ans: This site exists to collect all useful resources for all classes of various _Online Education_ initiatives (Coursera, MITx, MIT RELATE, Udacity to name a few). This site intends to be a library of all useful resources (videos, publications etc.) related to each class. 
+> Ans: This site exists to collect all useful resources for all classes of various _Online Education_ initiatives (Coursera, MITx, MIT RELATE, Udacity to name a few). This site intends to be a library of all useful resources (videos, publications etc.) related to each class. 
 
 __Que: Can I contribute to this site?__
-
-Ans: Yes, you can help us collect useful resources for each class. Please read [Contribute](http://amberj.github.com/online-edu-resources/contribute.html "Contribute") page for more details.
+> Ans: Yes, you can help us collect useful resources for each class. Please read [Contribute](http://amberj.github.com/online-edu-resources/contribute.html "Contribute") page for more details.
 
 __Que: * How can I contribute to this site?__
 
