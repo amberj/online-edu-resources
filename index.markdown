@@ -16,12 +16,12 @@ Click on links below to see courses from each course provider:
 
 * MITx
 
-* Udacity
+* [Udacity](http://amberj.github.com/online-edu-resources/udacity/ "Udacity Courses")
 
 ## Subscribe:
 [Click here](http://amberj.github.com/online-edu-resources/subscribe.html "Online Educational Resources: Subscribe to site updates") to subscribe to site updates (Email/RSS/Twitter/Twitter RSS/Facebook).
 
 <hr />
-<br />
+
 [Hosted on GitHub](https://github.com/amberj/online-edu-resources "online-edu-resources on GitHub")
 
