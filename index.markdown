@@ -5,8 +5,6 @@ title: Online Education Resources: Home
 # Online Education Resources: Home <a href="http://page2rss.com/rss/4882f2615e0b201c8d6d1eb55a4d7b75"><img src="https://github.com/amberj/online-edu-resources/raw/gh-pages/feed-icon.png" alt="RSS Feed" /></a>
 [Home](http://amberj.github.com/online-edu-resources/ "Online Educational Resources: Home") &nbsp;|&nbsp; [Subscribe to site updates](http://amberj.github.com/online-edu-resources/subscribe.html "Online Educational Resources: Subscribe to site updates") &nbsp;|&nbsp; [FAQ](http://amberj.github.com/online-edu-resources/faq.html "Online Educational Resources: FAQ") &nbsp;|&nbsp; [Contribute](http://amberj.github.com/online-edu-resources/contribute.html "Online Educational Reqources: Contribute") &nbsp;|&nbsp; [Contact](http://amberj.github.com/online-edu-resources/contact.html "Online Educational Resources: Contact")<br />
 
-<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FOnline-Edu-Resources%2F193711327397725&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe>
-
 <hr />
 
 ## Course Providers:
@@ -31,3 +29,5 @@ Click on links below to see courses from each course provider:
 <hr />
 
 [Hosted on GitHub](https://github.com/amberj/online-edu-resources "online-edu-resources on GitHub")
+
+<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FOnline-Edu-Resources%2F193711327397725&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe>
