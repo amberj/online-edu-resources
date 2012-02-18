@@ -8,21 +8,18 @@ title: Online Education Resources: FAQ
 <hr />
 
 ## General:
-__Que: What is the purpose of this site?__
-
+Que: What is the purpose of this site?
 > Ans: This site exists to collect all useful resources for all classes of various _Online Education_ initiatives (Coursera, MITx, MIT RELATE, Udacity to name a few). This site intends to be a library of all useful resources (videos, publications etc.) related to each class. 
 
-__Que: Can I contribute to this site?__
+Que: Can I contribute to this site?
 > Ans: Yes, you can help us collect useful resources for each class. Please read [Contribute](http://amberj.github.com/online-edu-resources/contribute.html "Contribute") page for more details.
 
-__Que: * How can I contribute to this site?__
-
-Ans: Please read [Contribute](http://amberj.github.com/online-edu-resources/contribute.html "Contribute") page.
+Que: * How can I contribute to this site?
+> Ans: Please read [Contribute](http://amberj.github.com/online-edu-resources/contribute.html "Contribute") page.
 
 ## Site:
-__Que: What technologies does this site use?__
-
-Ans: [GitHub Pages](http://pages.github.com/ "GitHub Pages"), [Markdown](http://daringfireball.net/projects/markdown/ "Markdown") ([GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/ "GitHub Flavored Markdown") to be precise), [Page2RSS](http://page2rss.com/ "Page2RSS").
+Que: What technologies does this site use?
+> Ans: [GitHub Pages](http://pages.github.com/ "GitHub Pages"), [Markdown](http://daringfireball.net/projects/markdown/ "Markdown") ([GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/ "GitHub Flavored Markdown") to be precise), [Page2RSS](http://page2rss.com/ "Page2RSS").
 
 <br /><br />
 <hr />
