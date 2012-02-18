@@ -9,7 +9,7 @@ title: Online Education Resources: MITx Courses
 
 ## [MITx](http://mitx.mit.edu/ "MITx") course(s)
 ### Current/Soon:
-* 6.002x Circuits and Electronics
+* 6\.002x Circuits and Electronics
 
 ### Future:
 None.
