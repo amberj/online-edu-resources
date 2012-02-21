@@ -9,8 +9,8 @@ title: Online Education Resources: Udacity Courses
 
 ## [Udacity](http://www.udacity.com/ "Udacity") course(s)
 ### Current/Soon:
-* CS 101: Building a Search Engine
-* CS 373: Programming a Robotic Car
+* [CS 101: Building a Search Engine](http://amberj.github.com/online-edu-resources/udacity/cs101 "Udacity CS 101")
+* [CS 373: Programming a Robotic Car](http://amberj.github.com/online-edu-resources/udacity/cs373 "Udacity CS 373")
 
 ### Future:
 * Algorithms and Data Structures

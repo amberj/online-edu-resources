@@ -16,6 +16,7 @@ title: Online Education Resources: Coursera Courses
 ### Future:
 * Anatomy
 * Computer Security
+* Computer Vision
 * Cryptography
 * CS101
 * Design and Analysis of Algorithms I
