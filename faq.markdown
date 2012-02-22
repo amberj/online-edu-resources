@@ -16,7 +16,7 @@ Que: What is the purpose of this site?
 Que: Can I contribute to this site?
 > Ans: Yes, you can help us collect useful resources for each class. Please read [Contribute](http://amberj.github.com/online-edu-resources/contribute.html "Contribute") page for more details.
 
-Que: * How can I contribute to this site?
+Que: How can I contribute to this site?
 > Ans: Please read [Contribute](http://amberj.github.com/online-edu-resources/contribute.html "Contribute") page.
 
 ## Site:

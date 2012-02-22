@@ -1,20 +1,17 @@
 ---
-title: Online Education Resources: Udacity CS 373
+title: Online Education Resources: Coursera Anatomy
 ---
 
-# Online Education Resources: Udacity CS 373<a href="http://page2rss.com/rss/519879319a5c35f6b7990eb489c4fdf9"><img src="https://github.com/amberj/online-edu-resources/raw/gh-pages/feed-icon.png" alt="RSS Feed" /></a>
+# Online Education Resources <a href=""><img src="https://github.com/amberj/online-edu-resources/raw/gh-pages/feed-icon.png" alt="RSS Feed" /></a>
 [Home](http://amberj.github.com/online-edu-resources/ "Online Educational Resources: Home") &nbsp;|&nbsp; [Subscribe to site updates](http://amberj.github.com/online-edu-resources/subscribe.html "Online Educational Resources: Subscribe to site updates") &nbsp;|&nbsp; [FAQ](http://amberj.github.com/online-edu-resources/faq.html "Online Educational Resources: FAQ") &nbsp;|&nbsp; [Contribute](http://amberj.github.com/online-edu-resources/contribute.html "Online Educational Reqources: Contribute") &nbsp;|&nbsp; [Contact](http://amberj.github.com/online-edu-resources/contact.html "Online Educational Resources: Contact")<br />
 
 <hr />
 
-## Udacity CS 101: Programming a Robotic Car
+## Coursera Anatomy
 ### Officially recommended resources:
-* [Course website](http://www.udacity.com/overview/Course/cs373)
-* [Course official forum](http://www.udacity-forums.com/cs373/)
+* [Course website](http://www.anatomy-class.org/)
 
 ### Online Discussion Groups
-* Questions tagged with [%prc](http://www.aiqus.com/tags/%25prc/ "Udacity CS 373 on aiqus") and [Udacity](http://www.aiqus.com/tags/udacity/ "Udacity tag on aiqus") on aiqus.
-* [Facebook study group](https://www.facebook.com/groups/programmingaroboticcar/)
 
 ### Publications
 Coming soon.
@@ -23,9 +20,7 @@ Coming soon.
 Coming soon.
 
 ### Miscellaneous
-* [Python Boot Camp for Udacity CS 373 facebook group](https://www.facebook.com/groups/295104180548382/)
-* [Interesting links on Python facebook doc](https://www.facebook.com/groups/295104180548382/doc/295562007169266/)
-
+Coming soon.
 
 <br /><br />
 <hr />
