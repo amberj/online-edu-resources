@@ -9,25 +9,25 @@ title: Online Education Resources: Coursera Courses
 
 ## [Coursera](http://www.coursera.org/ "Coursera") course(s)
 ### Current/Soon:
-* Model Thinking
-* Probabilistic Graphical Models
-* Software as a Service
+* [Model Thinking](http://amberj.github.com/online-edu-resources/coursera/modelthinker)
+* [Probabilistic Graphical Models](http://amberj.github.com/online-edu-resources/coursera/pgm)
+* [Software as a Service](http://amberj.github.com/online-edu-resources/coursera/saas)
 
 ### Future:
-* Anatomy
-* Computer Security
-* Computer Vision
-* Cryptography
-* CS101
-* Design and Analysis of Algorithms I
-* Game Theory
-* Human-Computer Interaction
-* Information Theory
-* Machine Learning
-* Making Green Buildings
-* Natural Language Processing
-* The Lean Launchpad
-* Technology Entrepreneurship
+* [Anatomy](http://amberj.github.com/online-edu-resources/coursera/anatomy)
+* [Computer Security](http://amberj.github.com/online-edu-resources/coursera/security)
+* [Computer Vision](http://amberj.github.com/online-edu-resources/coursera/vision)
+* [Cryptography](http://amberj.github.com/online-edu-resources/coursera/crypto)
+* [CS101](http://amberj.github.com/online-edu-resources/coursera/cs101)
+* [Design and Analysis of Algorithms I](http://amberj.github.com/online-edu-resources/coursera/algo)
+* [Game Theory](http://amberj.github.com/online-edu-resources/coursera/game-theory)
+* [Human-Computer Interaction](http://amberj.github.com/online-edu-resources/coursera/hci)
+* [Information Theory](http://amberj.github.com/online-edu-resources/coursera/infotheory)
+* [Machine Learning](http://amberj.github.com/online-edu-resources/coursera/ml)
+* [Making Green Buildings](http://amberj.github.com/online-edu-resources/coursera/greenbuilding)
+* [Natural Language Processing](http://amberj.github.com/online-edu-resources/coursera/nlp)
+* The Lean Launchpad (temporarily postponed)
+* Technology Entrepreneurship (temporarily postponed)
 
 ### Past:
 * Introduction to Databases
