@@ -11,6 +11,7 @@ title: Online Education Resources: Udacity CS 373
 ### Officially recommended resources:
 * [Course website](http://www.udacity.com/overview/Course/cs373)
 * [Course official forum](http://www.udacity-forums.com/cs373/)
+* [Udacity CS 373 facebook page](https://www.facebook.com/pages/Udacity-CS-373/257800147623368)
 
 ### Online Discussion Groups
 * Questions tagged with [%prc](http://www.aiqus.com/tags/%25prc/ "Udacity CS 373 on aiqus") and [Udacity](http://www.aiqus.com/tags/udacity/ "Udacity tag on aiqus") on aiqus.
@@ -23,10 +24,10 @@ Coming soon.
 Coming soon.
 
 ### Miscellaneous
-* [Python Boot Camp for Udacity CS 373 facebook group](https://www.facebook.com/groups/295104180548382/)
-* [Interesting links on Python facebook doc](https://www.facebook.com/groups/295104180548382/doc/295562007169266/)
-
-
+* [Python Boot Camp for Udacity CS 373 facebook group](https://www.facebook.com/groups/295104180548382/).
+* [Interesting links on Python facebook doc](https://www.facebook.com/groups/295104180548382/doc/295562007169266/).
+* Professor Sebastian Thrun: [Personal website](http://robot.cc/), [Twitter](https://twitter.com/#!/SebastianThrun) and [Facebook](https://www.facebook.com/profile.php?id=623268098).
+* Andy Brown [Course Manager for CS 373] on [twitter](https://twitter.com/#!/AndyAtUdacity).
 <br /><br />
 <hr />
 
