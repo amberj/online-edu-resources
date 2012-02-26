@@ -26,10 +26,11 @@ Coming soon.
 ### Miscellaneous
 * Professor David Evans links: [Personal website](http://www.cs.virginia.edu/~evans/) and [Twitter](https://twitter.com/#!/UdacityDave).
 * Free book by Prof. David Evans [Introduction to Computing: Explorations in Language, Logic, and Machines](http://www.computingbook.org/)
-* Peter Chapman [Assistant Instructor for CS 101] on [Twitter](https://twitter.com/#!/pchapmanUdacity) and [Facebook](https://www.facebook.com/profile.php?id=100003477431951).
+* Peter Chapman \[Assistant Instructor for CS 101\] on [Twitter](https://twitter.com/#!/pchapmanUdacity) and [Facebook](https://www.facebook.com/profile.php?id=100003477431951).
 * [Python Boot Camp for Udacity CS 373 facebook group](https://www.facebook.com/groups/295104180548382/)
 * [Interesting links on Python facebook doc](https://www.facebook.com/groups/295104180548382/doc/295562007169266/)
 * Gabriel Weinberg [DuckDuckGo creator]: [Personal website](http://www.gabrielweinberg.com/) and [twitter](https://twitter.com/#!/yegg).
+
 <br /><br />
 <hr />
 

@@ -38,6 +38,7 @@ None.
 
 ## Miscellaneous Links
 * [Coursera on Twitter](https://twitter.com/#!/coursera/)
+
 <br /><br />
 <hr />
 

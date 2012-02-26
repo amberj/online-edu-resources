@@ -27,7 +27,8 @@ Coming soon.
 * [Python Boot Camp for Udacity CS 373 facebook group](https://www.facebook.com/groups/295104180548382/).
 * [Interesting links on Python facebook doc](https://www.facebook.com/groups/295104180548382/doc/295562007169266/).
 * Professor Sebastian Thrun: [Personal website](http://robot.cc/), [Twitter](https://twitter.com/#!/SebastianThrun) and [Facebook](https://www.facebook.com/profile.php?id=623268098).
-* Andy Brown [Course Manager for CS 373] on [twitter](https://twitter.com/#!/AndyAtUdacity).
+* Andy Brown \[Course Manager for CS 373\] on [twitter](https://twitter.com/#!/AndyAtUdacity).
+
 <br /><br />
 <hr />
 
