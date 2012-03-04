@@ -26,6 +26,7 @@ Coming soon.
 
 ### Miscellaneous
 * [Wiki on aiqus](http://www.aiqus.com/wiki/Machine_Learning)
+* [Unsupervised Feature Learning and Deep Learning Wiki](http://ufldl.stanford.edu/wiki/index.php/Main_Page) on stanford.edu.
 
 <br /><br />
 <hr />

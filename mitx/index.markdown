@@ -9,7 +9,7 @@ title: Online Education Resources: MITx Courses
 
 ## [MITx](http://mitx.mit.edu/ "MITx") course(s)
 ### Current/Soon:
-* 6\.002x Circuits and Electronics
+* [6\.002x Circuits and Electronics](http://amberj.github.com/online-edu-resources/mitx/6002x)
 
 ### Future:
 None.
@@ -19,6 +19,9 @@ None.
 
 ### Discontinued:
 None.
+
+## Miscellaneous
+* MITx on [Linkedin](http://www.linkedin.com/groups/Friends-Alumni-MITx-4316538), [Twitter](https://twitter.com/#!/MyMITx) and [Facebook (Page)](http://www.facebook.com/pages/MITx/378592442151504).
 
 <br /><br />
 <hr />

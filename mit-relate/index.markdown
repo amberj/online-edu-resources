@@ -9,7 +9,7 @@ title: Online Education Resources: MIT RELATE Courses
 
 ## [MIT RELATE](http://relate.mit.edu/ "MIT RELATE") course(s)
 ### Current/Soon:
-* Mechanics Online
+* [Mechanics Online](http://relate.mit.edu/physicscourse)
 
 ### Future:
 None.

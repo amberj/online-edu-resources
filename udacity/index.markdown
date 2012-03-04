@@ -23,7 +23,7 @@ title: Online Education Resources: Udacity Courses
 * Theory of Computation
 
 ### Past:
-* Introduction to Artificial Intelligence
+* [Introduction to Artificial Intelligence](http://amberj.github.com/online-edu-resources/udacity/ai)
 
 ### Discontinued:
 * Building a Search Engine Part-2

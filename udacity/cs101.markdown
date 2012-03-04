@@ -7,7 +7,7 @@ title: Online Education Resources: Udacity CS 101
 
 <hr />
 
-## [Udacity CS 101: Building a Search Engine]
+## Udacity CS 101: Building a Search Engine
 ### Officially recommended resources:
 * [Course website](http://www.udacity.com/overview/Course/cs101)
 * [Course official forum](http://www.udacity-forums.com/cs101/)
@@ -24,7 +24,7 @@ Coming soon.
 Coming soon.
 
 ### Miscellaneous
-* Professor David Evans links: [Personal website](http://www.cs.virginia.edu/~evans/) and [Twitter](https://twitter.com/#!/UdacityDave).
+* Professor David Evans links: [Personal website](http://www.cs.virginia.edu/~evans/), [Facebook](https://www.facebook.com/evansde) and [Twitter](https://twitter.com/#!/UdacityDave).
 * Free book by Prof. David Evans [Introduction to Computing: Explorations in Language, Logic, and Machines](http://www.computingbook.org/)
 * Peter Chapman \[Assistant Instructor for CS 101\] on [Twitter](https://twitter.com/#!/pchapmanUdacity) and [Facebook](https://www.facebook.com/profile.php?id=100003477431951).
 * [Python Boot Camp for Udacity CS 373 facebook group](https://www.facebook.com/groups/295104180548382/)
