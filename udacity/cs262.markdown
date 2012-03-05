@@ -1,5 +1,5 @@
 ---
-title: Online Education Resources: Udacity CS 
+title: Online Education Resources: Udacity CS 262
 ---
 
 # Online Education Resources: Udacity CS <a href=""><img src="https://github.com/amberj/online-edu-resources/raw/gh-pages/feed-icon.png" alt="RSS Feed" /></a>
@@ -12,7 +12,7 @@ title: Online Education Resources: Udacity CS
 None.
 
 ### Online Discussion Groups
-* ##udacity-cs262 (on irc.freenode.net)
+* \#\#udacity-cs262 (on irc.freenode.net)
 
 ### Publications
 None.
