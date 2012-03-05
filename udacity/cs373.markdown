@@ -14,6 +14,8 @@ title: Online Education Resources: Udacity CS 373
 * [Udacity CS 373 facebook page](https://www.facebook.com/pages/Udacity-CS-373/257800147623368)
 
 ### Online Discussion Groups
+* [Official Udacity CS 373 forum](http://www.udacity-forums.com/cs373)
+* ##udacity-cs373 (on irc.freenode.net)
 * Questions tagged with [%prc](http://www.aiqus.com/tags/%25prc/ "Udacity CS 373 on aiqus") and [Udacity](http://www.aiqus.com/tags/udacity/ "Udacity tag on aiqus") on aiqus.
 * [Facebook study group](https://www.facebook.com/groups/programmingaroboticcar/)
 

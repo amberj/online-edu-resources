@@ -9,8 +9,12 @@ title: Online Education Resources: Udacity Courses
 
 ## [Udacity](http://www.udacity.com/ "Udacity") course(s)
 ### Current/Soon:
-* [CS 101: Building a Search Engine](http://amberj.github.com/online-edu-resources/udacity/cs101 "Udacity CS 101")
-* [CS 373: Programming a Robotic Car](http://amberj.github.com/online-edu-resources/udacity/cs373 "Udacity CS 373")
+* [CS 101: Building a Search Engine](http://amberj.github.com/online-edu-resources/udacity/cs101 "Udacity CS 101") (will be offered again starting on April 16, 2012)
+* [CS 373: Programming a Robotic Car](http://amberj.github.com/online-edu-resources/udacity/cs373 "Udacity CS 373") (will be offered again starting on April 16, 2012)
+* [CS212: The Design of Computer Programs](http://amberj.github.com/online-edu-resources/udacity/cs212) (starting April 16, 2012)
+* [CS253: Web Application Engineering](http://amberj.github.com/online-edu-resources/udacity/cs253) (starting April 16, 2012)
+* [CS262: Programming Languages](http://amberj.github.com/online-edu-resources/udacity/cs262) (starting April 16, 2012)
+* [CS387: Applied Cryptography](http://amberj.github.com/online-edu-resources/udacity/cs387) (starting April 16, 2012)
 
 ### Future:
 * Algorithms and Data Structures
@@ -32,7 +36,7 @@ title: Online Education Resources: Udacity Courses
 * Udacity on [Twitter](http://twitter.com/udacity), [Facebook](https://www.facebook.com/pages/Udacity/174179219354091) and [Google+](https://plus.google.com/116286004036789369492/).
 * David Stavens \[CEO and co-founder of Udacity\] on [Twitter](https://twitter.com/#!/DavidUdacity).
 * Kathleen Mullaney \[Content Director at Udacity\] on [Twitter](https://twitter.com/#!/KathleenUdacity) and [Facebook](https://www.facebook.com/profile.php?id=100003394368997).
-
+* [Unofficial Udacity wiki](http://www.udacity-wiki.com/)
 
 <br /><br />
 <hr />

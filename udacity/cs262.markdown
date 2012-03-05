@@ -1,18 +1,27 @@
 ---
-title: Online Education Resources: 6.002x Circuits and Electronics
+title: Online Education Resources: Udacity CS 
 ---
 
-# Online Education Resources: 6\.002x Circuits and Electronics<a href=""><img src="https://github.com/amberj/online-edu-resources/raw/gh-pages/feed-icon.png" alt="RSS Feed" /></a>
+# Online Education Resources: Udacity CS <a href=""><img src="https://github.com/amberj/online-edu-resources/raw/gh-pages/feed-icon.png" alt="RSS Feed" /></a>
 [Home](http://amberj.github.com/online-edu-resources/ "Online Educational Resources: Home") &nbsp;|&nbsp; [Subscribe to site updates](http://amberj.github.com/online-edu-resources/subscribe.html "Online Educational Resources: Subscribe to site updates") &nbsp;|&nbsp; [FAQ](http://amberj.github.com/online-edu-resources/faq.html "Online Educational Resources: FAQ") &nbsp;|&nbsp; [Contribute](http://amberj.github.com/online-edu-resources/contribute.html "Online Educational Reqources: Contribute") &nbsp;|&nbsp; [Contact](http://amberj.github.com/online-edu-resources/contact.html "Online Educational Resources: Contact")<br />
 
 <hr />
 
-## 6\.002x Circuits and Electronics
+## Udacity CS 262: Programming Languages
 ### Officially recommended resources:
-* [Course website](https://6002x.mitx.mit.edu/)
+None.
 
-### Online discussion groups
-* [Facebook study group](https://www.facebook.com/groups/mitxonline/)
+### Online Discussion Groups
+* ##udacity-cs262 (on irc.freenode.net)
+
+### Publications
+None.
+
+### Related content
+Coming soon.
+
+### Miscellaneous
+None.
 
 <br /><br />
 <hr />
