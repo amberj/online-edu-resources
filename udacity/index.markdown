@@ -36,6 +36,7 @@ title: Online Education Resources: Udacity Courses
 * Udacity on [Twitter](http://twitter.com/udacity), [Facebook](https://www.facebook.com/pages/Udacity/174179219354091) and [Google+](https://plus.google.com/116286004036789369492/).
 * David Stavens \[CEO and co-founder of Udacity\] on [Twitter](https://twitter.com/#!/DavidUdacity).
 * Kathleen Mullaney \[Content Director at Udacity\] on [Twitter](https://twitter.com/#!/KathleenUdacity) and [Facebook](https://www.facebook.com/profile.php?id=100003394368997).
+* \#udacity (on irc.freenode.net)
 * [Unofficial Udacity wiki](http://www.udacity-wiki.com/)
 
 <br /><br />

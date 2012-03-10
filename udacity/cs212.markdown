@@ -12,7 +12,7 @@ title: Online Education Resources: Udacity CS 212
 None.
 
 ### Online Discussion Groups
-* ##udacity-cs212 (on irc.freenode.net)
+* \#\#udacity-cs212 (on irc.freenode.net)
 
 ### Publications
 None.

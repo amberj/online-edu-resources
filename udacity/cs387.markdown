@@ -12,7 +12,7 @@ title: Online Education Resources: Udacity CS 387
 None.
 
 ### Online Discussion Groups
-* ##udacity-cs387 (on irc.freenode.net)
+* \#\#udacity-cs387 (on irc.freenode.net)
 
 ### Publications
 None.
