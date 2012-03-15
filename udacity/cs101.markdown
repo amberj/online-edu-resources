@@ -18,6 +18,7 @@ title: Online Education Resources: Udacity CS 101
 * \#\#udacity-cs101 (on irc.freenode.net)
 * Questions tagged with [%bse](http://www.aiqus.com/tags/%25bse/ "Udacity CS 101 on aiqus") and [Udacity](http://www.aiqus.com/tags/udacity/ "Udacity tag on aiqus") on aiqus.
 * [Facebook study group](https://www.facebook.com/groups/cs.class/)
+* [Udacity CS101 on Reddit](http://www.reddit.com/r/cs101)
 
 ### Publications
 Coming soon.

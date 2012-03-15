@@ -10,7 +10,7 @@ title: Online Education Resources: Technology Entrepreneurship
 ## Technology Entrepreneurship
 ### Officially recommended resources:
 * [Course website](http://eesley.blogspot.com/) (Other URLs that are _supposed to_ work: www.venture-class.org and www.entrepreneur-class.org)
-
+* [Course team-building tool](http://venture-lab.org/)
 <br /><br />
 <hr />
 

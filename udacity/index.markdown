@@ -38,6 +38,7 @@ title: Online Education Resources: Udacity Courses
 * Kathleen Mullaney \[Content Director at Udacity\] on [Twitter](https://twitter.com/#!/KathleenUdacity) and [Facebook](https://www.facebook.com/profile.php?id=100003394368997).
 * \#udacity (on irc.freenode.net)
 * [Unofficial Udacity wiki](http://www.udacity-wiki.com/)
+* [Udacity on Reddit](http://www.reddit.com/r/Udacity)
 
 <br /><br />
 <hr />
