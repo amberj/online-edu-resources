@@ -7,6 +7,8 @@ title: Online Education Resources: Introduction to Databases
 
 <hr />
 
+Note: This page needs a maintainer/admin. Please see [Contribute](http://amberj.github.com/online-edu-resources/contribute.html) page for more details.
+
 ## Introduction to Databases
 ### Officially recommended resources:
 * [Course website](http://www.db-class.org/)

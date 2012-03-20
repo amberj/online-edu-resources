@@ -7,6 +7,8 @@ title: Online Education Resources: Technology Entrepreneurship
 
 <hr />
 
+Note: This page needs a maintainer/admin. Please see [Contribute](http://amberj.github.com/online-edu-resources/contribute.html) page for more details.
+
 ## Technology Entrepreneurship
 ### Officially recommended resources:
 * [Course website](http://eesley.blogspot.com/) (Other URLs that are _supposed to_ work: www.venture-class.org and www.entrepreneur-class.org)

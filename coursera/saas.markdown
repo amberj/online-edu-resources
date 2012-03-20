@@ -7,6 +7,8 @@ title: Online Education Resources: Coursera Software as a Service
 
 <hr />
 
+Note: This page needs a maintainer/admin. Please see [Contribute](http://amberj.github.com/online-edu-resources/contribute.html) page for more details.
+
 ## Coursera Software as a Service 
 ### Officially recommended resources:
 * [Course website](http://www.saas-class.org/)

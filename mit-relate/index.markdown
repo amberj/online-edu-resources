@@ -7,6 +7,8 @@ title: Online Education Resources: MIT RELATE Courses
 
 <hr />
 
+Note: This page needs a maintainer/admin. Please see [Contribute](http://amberj.github.com/online-edu-resources/contribute.html) page for more details.
+
 ## [MIT RELATE](http://relate.mit.edu/ "MIT RELATE") course(s)
 ### Current/Soon:
 * [Mechanics Online](http://relate.mit.edu/physicscourse)

@@ -7,6 +7,8 @@ title: Online Education Resources: 6.002x Circuits and Electronics
 
 <hr />
 
+Note: This page needs a maintainer/admin. Please see [Contribute](http://amberj.github.com/online-edu-resources/contribute.html) page for more details.
+
 ## 6\.002x Circuits and Electronics
 ### Officially recommended resources:
 * [Course website](https://6002x.mitx.mit.edu/)

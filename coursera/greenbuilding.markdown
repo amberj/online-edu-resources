@@ -7,6 +7,8 @@ title: Online Education Resources: Coursera Making Green Buildings s
 
 <hr />
 
+Note: This page needs a maintainer/admin. Please see [Contribute](http://amberj.github.com/online-edu-resources/contribute.html) page for more details.
+
 ## Coursera Making Green Buildings 
 ### Officially recommended resources:
 * [Course website](http://www.greenbuilding-class.org/)

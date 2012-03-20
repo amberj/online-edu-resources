@@ -7,6 +7,8 @@ title: Online Education Resources: Coursera Computer Vision
 
 <hr />
 
+Note: This page needs a maintainer/admin. Please see [Contribute](http://amberj.github.com/online-edu-resources/contribute.html) page for more details.
+
 ## Coursera Computer Vision
 ### Officially recommended resources:
 * [Course website](http://www.vision-class.org/)
