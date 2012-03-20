@@ -9,7 +9,10 @@ title: Online Education Resources: Coursera Courses
 
 ## [Coursera](http://www.coursera.org/ "Coursera") course(s)
 ### Current/Soon:
+* [Game Theory](http://amberj.github.com/online-edu-resources/coursera/game-theory)
 * [Model Thinking](http://amberj.github.com/online-edu-resources/coursera/modelthinker)
+* [Natural Language Processing](http://amberj.github.com/online-edu-resources/coursera/nlp)
+* [Probabilistic Graphical Models](http://amberj.github.com/online-edu-resources/coursera/pgm)
 * [Software as a Service](http://amberj.github.com/online-edu-resources/coursera/saas)
 * [Technology Entrepreneurship](http://amberj.github.com/online-edu-resources/coursera/venture)
 
@@ -20,13 +23,10 @@ title: Online Education Resources: Coursera Courses
 * [Cryptography](http://amberj.github.com/online-edu-resources/coursera/crypto)
 * [CS101](http://amberj.github.com/online-edu-resources/coursera/cs101)
 * [Design and Analysis of Algorithms I](http://amberj.github.com/online-edu-resources/coursera/algo)
-* [Game Theory](http://amberj.github.com/online-edu-resources/coursera/game-theory)
 * [Human-Computer Interaction](http://amberj.github.com/online-edu-resources/coursera/hci)
 * [Information Theory](http://amberj.github.com/online-edu-resources/coursera/infotheory)
 * [Machine Learning](http://amberj.github.com/online-edu-resources/coursera/ml)
 * [Making Green Buildings](http://amberj.github.com/online-edu-resources/coursera/greenbuilding)
-* [Natural Language Processing](http://amberj.github.com/online-edu-resources/coursera/nlp)
-* [Probabilistic Graphical Models](http://amberj.github.com/online-edu-resources/coursera/pgm)
 * The Lean Launchpad (temporarily postponed): See [this blogpost](http://steveblank.com/2012/02/09/two-giant-steps-forward-for-entrepreneurs/) by course instructor for more details.
 
 

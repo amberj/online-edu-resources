@@ -10,6 +10,7 @@ title: Online Education Resources: 6.002x Circuits and Electronics
 ## 6\.002x Circuits and Electronics
 ### Officially recommended resources:
 * [Course website](https://6002x.mitx.mit.edu/)
+* Official IRC channel: irc://irc.mitx.mit.edu/6002
 
 ### Online discussion groups
 * [Facebook study group](https://www.facebook.com/groups/mitxonline/)
