@@ -19,7 +19,7 @@ title: Online Education Resources: Coursera Probabilistic Graphical Models
 Coming soon.
 
 ### Related content
-Coming soon.
+[A Brief Introduction to Graphical Models and Bayesian Networks](http://www.cs.ubc.ca/~murphyk/Bayes/bayes.html) by Kevin Murphy.
 
 ### Miscellaneous
 * [Wiki on aiqus](http://www.aiqus.com/wiki/Probabilistic_Graphical_Models)

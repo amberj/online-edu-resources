@@ -9,6 +9,7 @@ title: Online Education Resources: Coursera Courses
 
 ## [Coursera](http://www.coursera.org/ "Coursera") course(s)
 ### Current/Soon:
+* [Design and Analysis of Algorithms I](http://amberj.github.com/online-edu-resources/coursera/algo)
 * [Game Theory](http://amberj.github.com/online-edu-resources/coursera/game-theory)
 * [Model Thinking](http://amberj.github.com/online-edu-resources/coursera/modelthinker)
 * [Natural Language Processing](http://amberj.github.com/online-edu-resources/coursera/nlp)
@@ -22,12 +23,11 @@ title: Online Education Resources: Coursera Courses
 * [Computer Vision](http://amberj.github.com/online-edu-resources/coursera/vision)
 * [Cryptography](http://amberj.github.com/online-edu-resources/coursera/crypto)
 * [CS101](http://amberj.github.com/online-edu-resources/coursera/cs101)
-* [Design and Analysis of Algorithms I](http://amberj.github.com/online-edu-resources/coursera/algo)
 * [Human-Computer Interaction](http://amberj.github.com/online-edu-resources/coursera/hci)
 * [Information Theory](http://amberj.github.com/online-edu-resources/coursera/infotheory)
 * [Machine Learning](http://amberj.github.com/online-edu-resources/coursera/ml)
 * [Making Green Buildings](http://amberj.github.com/online-edu-resources/coursera/greenbuilding)
-* The Lean Launchpad (temporarily postponed): See [this blogpost](http://steveblank.com/2012/02/09/two-giant-steps-forward-for-entrepreneurs/) by course instructor for more details.
+* The Lean Launchpad: Temporarily postponed. See [this blogpost](http://steveblank.com/2012/02/09/two-giant-steps-forward-for-entrepreneurs/) by course instructor for more details. Class URL [http://www.launchpad-class.org/](http://www.launchpad-class.org/) redirects to instructor's site [http://steveblank.com/](http://steveblank.com/)
 
 
 ### Past:

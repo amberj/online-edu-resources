@@ -10,6 +10,7 @@ title: Online Education Resources: Coursera Human-Computer Interaction
 ## Coursera Human-Computer Interaction
 ### Officially recommended resources:
 * [Course website](http://www.hci-class.org/)
+* [Introduction to Human-Computer Interaction Design](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=HCI) (on Stanford OpenClassroom)
 
 ### Online Discussion Groups
 * Questions tagged with [#hci](http://www.aiqus.com/tags/%23hci) on aiqus.

@@ -12,6 +12,7 @@ Note: This page needs a maintainer/admin. Please see [Contribute](http://amberj.
 ## Introduction to Databases
 ### Officially recommended resources:
 * [Course website](http://www.db-class.org/)
+* [Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases) (on Stanford OpenClassroom).
 
 <br /><br />
 <hr />
