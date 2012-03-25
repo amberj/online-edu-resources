@@ -32,7 +32,7 @@ title: Online Education Resources: Udacity Courses
 ### Discontinued:
 * Building a Search Engine Part-2
 
-## Miscellaneous
+## Miscellaneous links
 * Udacity on [Twitter](http://twitter.com/udacity), [Facebook](https://www.facebook.com/pages/Udacity/174179219354091) and [Google+](https://plus.google.com/116286004036789369492/).
 * David Stavens \[CEO and co-founder of Udacity\] on [Twitter](https://twitter.com/#!/DavidUdacity).
 * Kathleen Mullaney \[Content Director at Udacity\] on [Twitter](https://twitter.com/#!/KathleenUdacity) and [Facebook](https://www.facebook.com/profile.php?id=100003394368997).

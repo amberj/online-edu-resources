@@ -20,7 +20,7 @@ None.
 ### Discontinued:
 None.
 
-## Miscellaneous
+## Miscellaneous links
 * MITx on [Linkedin](http://www.linkedin.com/groups/Friends-Alumni-MITx-4316538), [Twitter](https://twitter.com/#!/MyMITx) and [Facebook (Page)](http://www.facebook.com/pages/MITx/378592442151504).
 
 <br /><br />

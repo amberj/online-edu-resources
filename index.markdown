@@ -18,6 +18,8 @@ Click on links below to see courses from each course provider:
 
 * [Udacity](http://amberj.github.com/online-edu-resources/udacity/ "Udacity Courses")
 
+* [Miscellaneous](http://amberj.github.com/online-edu-resources/misc/)
+
 ## Subscribe:
 [Click here](http://amberj.github.com/online-edu-resources/subscribe.html "Online Educational Resources: Subscribe to site updates") to subscribe to site updates (Email/RSS/Twitter/Twitter RSS/Facebook).
 

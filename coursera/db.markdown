@@ -14,6 +14,8 @@ Note: This page needs a maintainer/admin. Please see [Contribute](http://amberj.
 * [Course website](http://www.db-class.org/)
 * [Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases) (on Stanford OpenClassroom).
 
+### See also
+None.
 <br /><br />
 <hr />
 

@@ -27,6 +27,8 @@ Coming soon.
 * [Prof. Christopher Manning's NLP course](http://see.stanford.edu/see/courseInfo.aspx?coll=63480b48-8819-4efd-8412-263f1a472f5a) on Stanford Engineering Everywhere (with video lectures, assignments, exams etc.)
 * [CS224N: Natural Language Processing (Fall 2011)](https://courseware.stanford.edu/pg/courses/214428/cs224n-fall-2011)
 
+### See also
+None.
 <br /><br />
 <hr />
 

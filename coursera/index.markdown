@@ -37,7 +37,7 @@ title: Online Education Resources: Coursera Courses
 ### Discontinued:
 None.
 
-## Miscellaneous Links
+## Miscellaneous links
 * [Coursera on Twitter](https://twitter.com/#!/coursera/)
 
 <br /><br />

@@ -29,6 +29,9 @@ Coming soon.
 * [Unsupervised Feature Learning and Deep Learning Wiki](http://ufldl.stanford.edu/wiki/index.php/Main_Page) on stanford.edu ; [(Mirror on OpenClassroom?)](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ufldl).
 * [Machine Learning](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning) on Stanford OpenClassroom.
 
+### See also
+* [Learning From Data/Machine Learning (Caltech))(http://amberj.github.com/online-edu-resources/misc/ml-lfd-caltech)
+
 <br /><br />
 <hr />
 
