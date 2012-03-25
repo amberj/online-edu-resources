@@ -30,7 +30,7 @@ Coming soon.
 * [Machine Learning](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning) on Stanford OpenClassroom.
 
 ### See also
-* [Learning From Data/Machine Learning (Caltech))(http://amberj.github.com/online-edu-resources/misc/ml-lfd-caltech)
+* [Learning From Data/Machine Learning (Caltech)](http://amberj.github.com/online-edu-resources/misc/ml-lfd-caltech)
 
 <br /><br />
 <hr />
