@@ -11,6 +11,20 @@ title: Online Education Resources: Introduction to Artificial Intelligence
 ### Officially recommended resources:
 * [Course website](https://www.ai-class.com/) (IP: 173.255.237.152)
 
+### Online Discussion Groups
+None.
+
+### Publications
+None.
+
+### Related content
+None.
+
+### Miscellaneous
+None.
+
+### See also
+None.
 
 <br /><br />
 <hr />
