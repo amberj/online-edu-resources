@@ -41,8 +41,9 @@ title: Online Education Resources: Coursera Courses
 None.
 
 ## Miscellaneous links
-* [Coursera on Twitter](https://twitter.com/#!/coursera/)
-
+* [Coursera on Twitter](http://twitter.com/coursera)
+* [Coursera on Facebook](http://facebook.com/Coursera)
+* [Coursera on Google+](https://plus.google.com/111950594039269281469)
 <br /><br />
 <hr />
 

@@ -7,6 +7,8 @@ title: Online Education Resources: Coursera Probabilistic Graphical Models
 
 <hr />
 
+Note: This page needs a maintainer/admin. Please see [Contribute](http://amberj.github.com/online-edu-resources/contribute.html) page for more details.
+
 ## Coursera Probabilistic Graphical Models
 ### Officially recommended resources:
 * [Course website](http://www.pgm-class.org/)
