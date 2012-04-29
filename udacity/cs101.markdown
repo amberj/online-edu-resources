@@ -12,6 +12,7 @@ title: Online Education Resources: Udacity CS 101
 * [Course website](http://www.udacity.com/overview/Course/cs101)
 * [Course official forum](http://www.udacity-forums.com/cs101/)
 * [Course's Facebook Page](https://www.facebook.com/pages/Udacity-CS-101/317816304923458)
+* [Official wiki](http://wiki.udacity.com/CS101)
 
 ### Online Discussion Groups
 * [Official Udacity CS 101 forum](http://www.udacity-forums.com/cs101)

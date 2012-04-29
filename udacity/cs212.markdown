@@ -9,13 +9,14 @@ title: Online Education Resources: Udacity CS 212
 
 ## Udacity CS 212: The Design of Computer Programs
 ### Officially recommended resources:
-None.
+* [Course website](http://www.udacity.com/overview/Course/cs212)
+* [Official wiki](http://wiki.udacity.com/CS212)
 
 ### Online Discussion Groups
 * \#\#udacity-cs212 (on irc.freenode.net)
 
 ### Publications
-None.
+* Free book: [How to Design Programs, 2e](http://www.ccs.neu.edu/home/matthias/HtDP2e/index.html) (by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi). [Quoting Prof. Peter Norvig](http://tinyurl.com/bmf7tbr): "That's a great book / web site...".
 
 ### Related content
 Coming soon.

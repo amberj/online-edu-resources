@@ -9,7 +9,8 @@ title: Online Education Resources: Udacity CS 387
 
 ## Udacity CS 387: Applied Cryptography
 ### Officially recommended resources:
-None.
+* [Course website](http://www.udacity.com/overview/Course/cs387)
+* [Official wiki](http://wiki.udacity.com/CS387)
 
 ### Online Discussion Groups
 * \#\#udacity-cs387 (on irc.freenode.net)

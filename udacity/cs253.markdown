@@ -9,7 +9,8 @@ title: Online Education Resources: Udacity CS 253
 
 ## Udacity CS 253: Web Application Engineering
 ### Officially recommended resources:
-None.
+* [Course website](http://www.udacity.com/overview/Course/cs253)
+* [Official wiki](http://wiki.udacity.com/CS253)
 
 ### Online Discussion Groups
 * \#\#udacity-cs253 (on irc.freenode.net)

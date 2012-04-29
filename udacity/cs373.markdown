@@ -14,6 +14,7 @@ Note: This page needs a maintainer/admin. Please see [Contribute](http://amberj.
 * [Course website](http://www.udacity.com/overview/Course/cs373)
 * [Course official forum](http://www.udacity-forums.com/cs373/)
 * [Udacity CS 373 facebook page](https://www.facebook.com/pages/Udacity-CS-373/257800147623368)
+* [Official wiki](http://wiki.udacity.com/CS373)
 
 ### Online Discussion Groups
 * [Official Udacity CS 373 forum](http://www.udacity-forums.com/cs373)

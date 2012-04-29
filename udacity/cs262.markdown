@@ -9,7 +9,8 @@ title: Online Education Resources: Udacity CS 262
 
 ## Udacity CS 262: Programming Languages
 ### Officially recommended resources:
-None.
+* [Course website](http://www.udacity.com/overview/Course/cs262)
+* [Official wiki](http://wiki.udacity.com/CS262)
 
 ### Online Discussion Groups
 * \#\#udacity-cs262 (on irc.freenode.net)
